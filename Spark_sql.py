@@ -74,7 +74,7 @@ df_last.write.mode("overwrite").json("data")
 import os
 import json
 
-directory = "C:\\Users\\esra.yildiz\\PycharmProjects\\Spark\\data\\"
+directory = "C:\\Users\\*****\\PycharmProjects\\*****\\*****\\"
 file_list = os.listdir(directory)
 data = []
 for file in file_list:
