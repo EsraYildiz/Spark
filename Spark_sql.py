@@ -67,7 +67,6 @@ df_last.show(truncate=False)
 df_last.printSchema()
 
 
-#df_last sonucu oluşan datanın json dosya formatında data klasörü altında yazılması
 #writing df data to json file
 df_last.write.mode("overwrite").json("data")
 
