@@ -1,6 +1,0 @@
-pip==21.0.1
-py4j==0.10.9
-pymongo==3.9.0
-pyspark==3.1.1
-setuptools==40.6.2
-spark==0.2.1
